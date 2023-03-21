@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebika Nepal</h1>
 <h3 align="center">A passionate web developer from Nepal</h3>
 
-<img aligh="center" width="400"  alt="coding girl" src="https://www.pinterest.com/pin/615374736573846166/"/>
+<img aligh="center" width="400"  alt="coding" src="https://dribbble.com/shots/15628402-Working-on-a-Project"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebika123&label=Profile%20views&color=0e75b6&style=flat" alt="sebika123" /> </p>
 
