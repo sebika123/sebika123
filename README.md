@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebika Nepal</h1>
-<h3 align="center">A passionate web developer from Nepal</h3>
+<h3 align="center">A passionate web developer and enthusiast Learner from Nepal</h3>
 <img aligh="center" width="1400"  alt="coding" src="https://grandparade.co.uk/_userfiles/uploads/Main_Photos/LOGO_v2-02.png?1591626349458"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebika123&label=Profile%20views&color=0e75b6&style=flat" alt="sebika123" /> </p>
