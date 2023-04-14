@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Html,Css,python,Kali Linux**
 
-- 📫 How to reach me **rogina.nep47@gmail.com**
+- 📫 How to reach me **sebikanepal4@gmail.com**
 
 - ⚡ Fun fact **I think i am a good listener**
 
