@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Django**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django,ReactJs**
 
 - 💬 Ask me about **Html,Css,python,Kali Linux**
 
