@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Sebika Nepal</h1>
+<h1 align="center">Hi 👋, I'm Sebika Nepal</h1>
 <h3 align="center">A passionate web developer and enthusiast Learner from Nepal</h3>
 <img aligh="center" width="1400"  alt="coding" src="https://grandparade.co.uk/_userfiles/uploads/Main_Photos/LOGO_v2-02.png?1591626349458"/>
 
