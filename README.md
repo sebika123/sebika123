@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sebikanepal4@gmail.com**
 
-- ⚡ Fun fact **I think i am a good listener**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
